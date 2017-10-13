@@ -37,3 +37,4 @@ Beschriftung des obigen Bildes
 ![Vorname Name, Projekttitel Detail XYZ](bild.png)
 
 Beschriftung des obigen Bildes
+

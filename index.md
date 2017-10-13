@@ -2,6 +2,8 @@
 
 Digital Typography 2017
 
+Leitidee, nicht mehr als drei Sätze.
+
 ## Inhalt
 
 * [Konzept](1_konzept/index.md)
