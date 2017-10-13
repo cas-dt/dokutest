@@ -3,6 +3,7 @@
 Digital Typography 2017
 
 <a id="top"></a>
+
 ## 1. Konzept
 
 * 1.1 [Projektbeschrieb](#beschrieb)
