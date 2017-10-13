@@ -3,7 +3,7 @@
 Digital Typography 2017
 
 <a id="top"></a>
-## 2. Skizzen
+## 2. Skizzen
 
 * [Mobile](#mobile)
 * [Desktop](#desktop)
@@ -29,4 +29,3 @@ Beschriftung des obigen Bildes
 etc. etc.
 
 [&uarr;](#top)
-
