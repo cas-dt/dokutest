@@ -17,16 +17,8 @@ Digital Typography 2017
 
 Beschriftung des obigen Bildes
 
-![Vorname Name, Projekttitel Detail XYZ](bild.png)
-
-Beschriftung des obigen Bildes
-
 <a id="farben"></a>
 ###  5.2 Farben [&uarr;](#top)
-
-![Vorname Name, Projekttitel Detail XYZ](bild.png)
-
-Beschriftung des obigen Bildes
 
 ![Vorname Name, Projekttitel Detail XYZ](bild.png)
 
@@ -39,16 +31,8 @@ Beschriftung des obigen Bildes
 
 Beschriftung des obigen Bildes
 
-![Vorname Name, Projekttitel Detail XYZ](bild.png)
-
-Beschriftung des obigen Bildes
-
 <a id="andere"></a>
 ###  5.4 Andere [&uarr;](#top)
-
-![Vorname Name, Projekttitel Detail XYZ](bild.png)
-
-Beschriftung des obigen Bildes
 
 ![Vorname Name, Projekttitel Detail XYZ](bild.png)
 
